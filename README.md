@@ -170,4 +170,4 @@ var myData = [
 
 
 ## 源码地址
-github地址： [vue-h5-tree](https://github.com/javanf/vue-c-tree) npm地址： [vue-h5-tree](https://www.npmjs.com/package/vue-h5-tree)
+github地址： [vue-h5-trees](https://github.com/javanf/vue-c-trees)
